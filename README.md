@@ -7,6 +7,8 @@
     alt="header"
   />
 </p> -->
+<div style="max-width: 900px; margin: 0 auto; padding: 0 16px;">
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:34D399&height=170&section=header&text=PARK%20JAESEON&fontSize=55&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&fontColor=FFFFFF"
@@ -16,15 +18,13 @@
 
 <br/>
 
-</p>
-
 <!-- =========================
      About Me
 ========================= -->
 <h2>😊 About Me</h2>
 
-- Frontend Developer
-- '일단 해보자' | '하면 된다'
+<h4>- Frontend Developer</h4>
+<h4>- '일단 해보자' , '하면 된다'</h4>
 
 <br/>
 
@@ -100,6 +100,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
 </p>
+
+</div>
