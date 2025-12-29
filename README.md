@@ -16,8 +16,6 @@
   />
 </p>
 
-<br/>
-
 <!-- =========================
      About Me
 ========================= -->
@@ -25,8 +23,6 @@
 
 <h4>- Frontend Developer</h4>
 <h4>- '일단 해보자' , '하면 된다'</h4>
-
-<br/>
 
 <!-- =========================
      Skills
@@ -42,15 +38,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br/>
-
 <h3>Languages</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-
-<br/>
 
 <h3>Tools & DevOps</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -58,8 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
-
-<br/>
 
 <!-- =========================
      Experience (Table)
@@ -73,12 +63,10 @@
 | 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
 | 2025.09 ~         | UMC 9th Challenger         |
 
-<br/>
-
 <!-- =========================
      Contact
 ========================= -->
-<h2>📫 Contact Me</h2>
+<h2>📫 Contact</h2>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
   <a href="mailto:ddorri83@naver.com">
