@@ -1,5 +1,5 @@
 ## I'm currently learning TypeScript, React.js
-### 아직 깃허브 꾸미는 중.....시험끝나고 할예정...........😭😭
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjjsun&repo=jjjsun)](https://github.com/jjjsun/jjjsun)
 
 <!--
 **jjjsun/jjjsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
