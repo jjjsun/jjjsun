@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=11" width="1000" height="240"/>
+  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=9" width="1000" height="240"/>
 </a>
 
 <h2>😊 About Me</h2>
