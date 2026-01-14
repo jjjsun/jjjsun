@@ -16,17 +16,15 @@
   />
 </p>
 
-<!-- =========================
-     About Me
-========================= -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="120"/>
+</a>
+
 <h2>😊 About Me</h2>
 
 <h4>- Frontend Developer</h4>
 <h4>- '일단 해보자' , '하면 된다'</h4>
 
-<!-- =========================
-     Skills
-========================= -->
 <h2>🛠️ Skills</h2>
 
 <h3>Frontend</h3>
@@ -51,9 +49,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<!-- =========================
-     Experience (Table)
-========================= -->
 <h2>🐎 Experience</h2>
 
 | 기간              | 활동내역                   |
@@ -63,9 +58,6 @@
 | 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
 | 2025.09 ~         | UMC 9th Challenger         |
 
-<!-- =========================
-     Contact
-========================= -->
 <h2>📫 Contact</h2>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
@@ -82,9 +74,6 @@
 
 <br/>
 
-<!-- =========================
-     GitHub Stats
-========================= -->
 <h2>📊 GitHub Stats</h2>
 
 <p>
