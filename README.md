@@ -16,10 +16,6 @@
   />
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="240"/>
-</a>
-
 <h2>😊 About Me</h2>
 
 <h4>- Frontend Developer</h4>
@@ -80,5 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
 </p>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="240"/>
+</a>
 
 </div>
