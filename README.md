@@ -58,7 +58,7 @@
 
 ### 🍽️ Eatsfine (잇츠파인) - 레스토랑 자리 예약 웹 서비스
 **기간:** 2026.01 ~ 2026.02 <br/>
-**역할:** Fontend 팀장 <br/>
+**역할:** Frontend 팀장 <br/>
 **기술:** React, TypeScript, TailwindCSS, Vite, TanStack Query
 
 🔗**Links:** https://github.com/Eatsfine
