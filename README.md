@@ -54,15 +54,6 @@
 | 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
 | 2025.09 ~ 2026.02 | UMC 9th Challenger         |
 
-<h2>💻 Project</h2>
-
-### 🍽️ Eatsfine (잇츠파인) - 레스토랑 자리 예약 웹 서비스
-**기간:** 2026.01 ~ 2026.02 <br/>
-**역할:** Frontend 팀장 <br/>
-**기술:** React, TypeScript, TailwindCSS, Vite, TanStack Query
-
-🔗**Links:** https://github.com/Eatsfine
-
 <h2>📫 Contact</h2>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
