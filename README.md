@@ -16,14 +16,14 @@
   />
 </p>
 
-<h2>😊 About Me</h2>
+<h1>😊 저는 말이죠!</h1>
 
-<h4>- Frontend Developer</h4>
-<h4>- '일단 해보자' , '하면 된다'</h4>
+<h3>- Frontend Developer</h3>
+<h3>- '일단 해보자' , '하면 된다'</h3>
 
-<h2>🛠️ Skills</h2>
+<h1>🛠️ Skills</h1>
 
-<h3>Frontend</h3>
+<h2>Frontend</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -32,29 +32,38 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<h3>Languages</h3>
+<h2>Languages</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-<h3>Tools & DevOps</h3>
+<h2>Tools & DevOps</h2>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<h2>🐎 Experience</h2>
+<h1>🐎 Experience</h1>
 
 | 기간              | 활동내역                   |
 | ----------------- | -------------------------- |
 | 2022.03 ~ 2024.02 | 컴퓨터과학전공 학생회      |
 | 2023.03 ~ 2024.02 | 컴퓨터과학전공 학생회 총무 |
 | 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
-| 2025.09 ~         | UMC 9th Challenger         |
+| 2025.09 ~ 2026.02 | UMC 9th Challenger         |
 
-<h2>📫 Contact</h2>
+<h1>💻 Project</h1>
+
+### 🍽️ Eatsfine (잇츠파인) - 레스토랑 자리 예약 웹 서비스
+**기간:** 2026.01 ~ 2026.02
+**역할:** Fontend 팀장
+**기술:** React, TypeScript, TailwindCSS, Vite, TanStack Query
+
+🔗**Links:** https://github.com/Eatsfine
+
+<h1>📫 Contact</h1>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
   <a href="mailto:ddorri83@naver.com">
@@ -70,11 +79,12 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+<h1>📊 GitHub Stats</h1>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
+     [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/users/jjjsun)
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
