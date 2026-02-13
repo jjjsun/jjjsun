@@ -18,8 +18,8 @@
 
 <h2>😊 저는 말이죠!</h2>
 
-<h2>- Frontend Developer</h2>
-<h2>- '일단 해보자' , '하면 된다'</h2>
+<h3>- Frontend Developer</h3>
+<h3>- '일단 해보자' , '하면 된다'</h3>
 
 <h2>🛠️ Skills</h2>
 
