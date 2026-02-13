@@ -84,7 +84,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
-     [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/users/jjjsun)
+<a href="https://www.git-ranker.com/users/jjjsun"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker Badge" /></a>
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
