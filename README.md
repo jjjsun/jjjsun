@@ -29,7 +29,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><b>Team Leader<br/>Frontend Dev</b></td>
+    <td><b>Team Leader&Frontend Dev</b></td>
     <td><b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b></td>
     <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
   </tr>
@@ -68,14 +68,31 @@
 <br/>
 
 <h2>🐎 Experience</h2>
-| 기간              | 활동내역                   |
-| ----------------- | -------------------------- |
-| 2025.09 ~ 2026.02 | UMC 9th Challenger (Web Frontend)         |
-| 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
-| 2023.03 ~ 2024.02 | 컴퓨터과학전공 학생회 총무 |
-| 2022.03 ~ 2024.02 | 컴퓨터과학전공 학생회      |
 
+<table>
+  <tr>
+    <th>기간</th>
+    <th>활동내역</th>
+  </tr>
+  <tr>
+    <td>2025.09 ~ 2026.02</td>
+    <td>UMC 9th Challenger (Web Frontend)</td>
+  </tr>
+  <tr>
+    <td>2024.02 ~ 2025.02</td>
+    <td>스타벅스 바리스타 근무</td>
+  </tr>
+  <tr>
+    <td>2023.03 ~ 2024.02</td>
+    <td>컴퓨터과학전공 학생회 총무</td>
+  </tr>
+  <tr>
+    <td>2022.03 ~ 2024.02</td>
+    <td>컴퓨터과학전공 학생회</td>
+  </tr>
+</table>
 
+<br/>
 
 
 <br/>
