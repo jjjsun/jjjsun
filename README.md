@@ -16,55 +16,58 @@
   />
 </p>
 
-<h2>😊 저는 말이죠!</h2>
+<h2>🙂‍↕️ 안녕하세요, 박재선입니다</h2>
+<blockquote>
+     <h3><b>"일단 해보자, 하면 된다"</b>라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h3>
+</blockquote>
 
-<h3>- Frontend Developer</h3>
-<h3>- '일단 해보자' , '하면 된다'</h3>
+<br/>
+
+<h2>🚀 Projects</h2>
+| Role | Project | Description |
+| :--- | :--- | :--- |
+| <b>Team Leader <br/> Frontend Dev</b> | <b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b> | 실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼 |
+| <b>Frontend Leader</b> | <b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b> | 지도 기반 레스토랑 웹 서비스 |
+
+<br/>
 
 <h2>🛠️ Skills</h2>
 
-<h3>Frontend</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-<h3>Languages</h3>
+<h3>Languages & Frontend</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
-<h3>Tools & DevOps</h3>
+<h3>Tools & Collaboration</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-<h2>🐎 Experience</h2>
+<br/>
 
-| 기간              | 활동내역                   |
-| ----------------- | -------------------------- |
-| 2022.03 ~ 2024.02 | 컴퓨터과학전공 학생회      |
-| 2023.03 ~ 2024.02 | 컴퓨터과학전공 학생회 총무 |
-| 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
-| 2025.09 ~ 2026.02 | UMC 9th Challenger         |
+<h2>🐎 Experience</h2>
+<ul>
+  <li><b>2025.09 ~ 2026.02</b> | UMC 9th Challenger (Web Frontend)</li>
+  <li><b>2024.02 ~ 2025.02</b> | 스타벅스 바리스타 근무</li>
+  <li><b>2023.03 ~ 2024.02</b> | 컴퓨터과학전공 학생회 총무</li>
+  <li><b>2022.03 ~ 2024.02</b> | 컴퓨터과학전공 학생회</li>
+</ul>
+
+<br/>
 
 <h2>📫 Contact</h2>
-
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
   <a href="mailto:ddorri83@naver.com">
-    <img src="https://img.shields.io/badge/ddorri83%40naver.com-03C75A?style=for-the-badge" />
-  </a>
-  <!-- <a href="https://velog.io/@jjjsun/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a> -->
-  <a href="https://www.instagram.com/jsun02.__/">
-    <img src="https://img.shields.io/badge/jsun02.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>
 
@@ -72,14 +75,15 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjjsun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
+<p align="center">
+  <a href="https://www.git-ranker.com/users/jjjsun"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker Badge" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
-<a href="https://www.git-ranker.com/users/jjjsun"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker Badge" /></a>
+</p>
+<p align="center">
+     <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="240"/>
+     </a>
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="240"/>
-</a>
 
 </div>
