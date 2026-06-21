@@ -17,15 +17,15 @@
 </p>
 
 <h2>😊 안녕하세요, 박재선입니다</h2>
-     <h3><b>"일단 해보자, 하면 된다"</b>라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h3>
+     <h4>- "일단 해보자, 하면 된다"라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h4>
 
 <br/>
 
 <h2>🚀 Projects</h2>
 | Role | Project | Description |
 | :--- | :--- | :--- |
-| <b>Team Leader <br/> Frontend Dev</b> | <b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b> | 실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼 |
-| <b>Frontend Leader</b> | <b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b> | 지도 기반 레스토랑 웹 서비스 |
+| Team Leader <br/> Frontend Dev | **[WhereYouAd](https://github.com/WhereYouAd/WhereYouAd-Frontend)** | 실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼 |
+| Frontend Leader | **[Eatsfine](https://github.com/Eatsfine/FE)** | 지도 기반 레스토랑 웹 서비스 |
 
 <br/>
 
@@ -53,19 +53,22 @@
 <br/>
 
 <h2>🐎 Experience</h2>
-<ul>
-  <li><b>2025.09 ~ 2026.02</b> | UMC 9th Challenger (Web Frontend)</li>
-  <li><b>2024.02 ~ 2025.02</b> | 스타벅스 바리스타 근무</li>
-  <li><b>2023.03 ~ 2024.02</b> | 컴퓨터과학전공 학생회 총무</li>
-  <li><b>2022.03 ~ 2024.02</b> | 컴퓨터과학전공 학생회</li>
-</ul>
+| 기간              | 활동내역                   |
+| ----------------- | -------------------------- |
+| 2025.09 ~ 2026.02 | UMC 9th Challenger (Web Frontend)         |
+| 2024.02 ~ 2025.02 | 스타벅스 바리스타 근무     |
+| 2023.03 ~ 2024.02 | 컴퓨터과학전공 학생회 총무 |
+| 2022.03 ~ 2024.02 | 컴퓨터과학전공 학생회      |
+
+
+
 
 <br/>
 
 <h2>📫 Contact</h2>
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
   <a href="mailto:ddorri83@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/ddorri83@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>
 
