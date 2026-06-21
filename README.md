@@ -22,10 +22,25 @@
 <br/>
 
 <h2>🚀 Projects</h2>
-| Role | Project | Description |
-| :--- | :--- | :--- |
-| Team Leader <br/> Frontend Dev | **[WhereYouAd](https://github.com/WhereYouAd/WhereYouAd-Frontend)** | 실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼 |
-| Frontend Leader | **[Eatsfine](https://github.com/Eatsfine/FE)** | 지도 기반 레스토랑 웹 서비스 |
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>Team Leader<br/>Frontend Dev</b></td>
+    <td><b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b></td>
+    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
+  </tr>
+  <tr>
+    <td><b>Frontend Leader</b></td>
+    <td><b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b></td>
+    <td>지도 기반 레스토랑 웹 서비스</td>
+  </tr>
+</table>
+
+<br/>
 
 <br/>
 
