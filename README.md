@@ -17,32 +17,10 @@
 </p>
 
 <h2>😊 안녕하세요, 박재선입니다</h2>
-     <h4>- "일단 해보자, 하면 된다"라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h4>
+     <h3>- "일단 해보자, 하면 된다"라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h3>
 
 <br/>
 
-<h2>🚀 Projects</h2>
-<table>
-  <tr>
-    <th>Role</th>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>Team Leader&Frontend Dev</b></td>
-    <td><b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b></td>
-    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
-  </tr>
-  <tr>
-    <td><b>Frontend Leader</b></td>
-    <td><b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b></td>
-    <td>지도 기반 레스토랑 웹 서비스</td>
-  </tr>
-</table>
-
-<br/>
-
-<br/>
 
 <h2>🛠️ Skills</h2>
 
@@ -94,6 +72,24 @@
 
 <br/>
 
+<h2>🚀 Projects</h2>
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>Team Leader&Frontend Dev</b></td>
+    <td><b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b></td>
+    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
+  </tr>
+  <tr>
+    <td><b>Frontend Leader</b></td>
+    <td><b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b></td>
+    <td>지도 기반 레스토랑 웹 서비스</td>
+  </tr>
+</table>
 
 <br/>
 
