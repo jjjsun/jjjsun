@@ -5,7 +5,10 @@
   alt="header"
 />
 
-<img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=15&pause=1500&color=2F80ED&center=true&vCenter=true&width=460&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20do%20it." alt="typing" />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=700&size=22&duration=1600&pause=500&color=2F80ED&center=true&vCenter=true&width=520&height=48&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20do%20it."
+  alt="typing"
+/>
 
 </div>
 
@@ -13,95 +16,92 @@
 
 ## Skills
 
-**Languages**
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="languages" />
+    </td>
+    <td align="center" width="33%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="frontend" />
+    </td>
+    <td align="center" width="33%">
+      <b>Version Control</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github" alt="version control" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Deployment</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vercel" alt="deployment" />
+    </td>
+    <td align="center" colspan="2">
+      <b>Collaboration</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=slack,notion" alt="collaboration" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-</p>
-
-**Version Control**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-**Deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-**Collaboration**
-
-<p>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
-**AI Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<p align="center">
+  <sub>Also using Cursor · Claude · Gemini · Linear</sub>
 </p>
 
 <br/>
 
 ## Experience
 
-> 🟢 **2025.09 – 2026.02** — UMC 9th Challenger (Web Frontend)
-
-> 🔵 **2024.02 – 2025.02** — 스타벅스 바리스타 근무
-
-> 🟢 **2023.03 – 2024.02** — 컴퓨터과학전공 학생회 총무
-
-> 🔵 **2022.03 – 2024.02** — 컴퓨터과학전공 학생회
+<table>
+  <tr>
+    <td width="170" valign="top"><code>2025.09 — 2026.02</code></td>
+    <td>
+      <b>UMC 9th Challenger</b><br/>
+      Web Frontend
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>2024.02 — 2025.02</code></td>
+    <td>
+      <b>Starbucks</b><br/>
+      Barista
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>2023.03 — 2024.02</code></td>
+    <td>
+      <b>컴퓨터과학전공 학생회</b><br/>
+      총무
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>2022.03 — 2024.02</code></td>
+    <td>
+      <b>컴퓨터과학전공 학생회</b>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Team%20Leader%20%26%20FE%20Developer-34D399?style=for-the-badge&logoColor=white" />
-
-### [WhereYouAd](https://github.com/WhereYouAd/WhereYouAd-Frontend)
-
-`2025.11 ~ 2026.10`
-
-실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Frontend%20Leader-60A5FA?style=for-the-badge&logoColor=white" />
-
-### [Eatsfine](https://github.com/Eatsfine/FE)
-
-`2026.01 ~ 2026.02`
-
-지도 기반 레스토랑 웹 서비스
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></h3>
+      Team Leader · Frontend &nbsp;·&nbsp; <code>2025.11 — 2026.10</code>
+      <br/><br/>
+      실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Eatsfine/FE">Eatsfine</a></h3>
+      Frontend Leader &nbsp;·&nbsp; <code>2026.01 — 2026.02</code>
+      <br/><br/>
+      지도 기반 레스토랑 웹 서비스
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjjsun&utm_content=farm">
+  <a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=jjjsun&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/jjjsun"
       width="600"
