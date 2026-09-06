@@ -106,26 +106,6 @@
 
 <br/>
 
-## Contact
-
-<p>
-  <a href="mailto:ddorri83@naver.com">
-    <img src="https://img.shields.io/badge/ddorri83@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-## Contact
-
-<p>
-  <a href="mailto:ddorri83@naver.com">
-    <img src="https://img.shields.io/badge/ddorri83@naver.com-EDEEF2?style=flat-square&logo=naver&logoColor=33363F" />
-  </a>
-</p>
-
-<br/>
-
 ## GitHub Stats
 
 <p align="center">
