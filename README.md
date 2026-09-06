@@ -14,6 +14,29 @@
 
 <br/>
 
+## Projects
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></h3>
+      기간 <code>2025.11 – 2026.10</code> &nbsp;·&nbsp; 역할 <b>Team Leader, Frontend</b>
+      <br/><br/>
+      실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Eatsfine/FE">Eatsfine</a></h3>
+      기간 <code>2026.01 – 2026.02</code> &nbsp;·&nbsp; 역할 <b>Frontend Leader</b>
+      <br/><br/>
+      지도 기반 레스토랑 웹 서비스
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Skills
 
 <table>
@@ -42,10 +65,20 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="deployment" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=notion" height="50" alt="Notion" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
+    <td align="center">
+      <table>
+        <tr>
+          <td valign="middle">
+            <img src="https://skillicons.dev/icons?i=notion" height="50" align="middle" alt="Notion" />
+          </td>
+          <td valign="middle">
+            <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="middle" alt="Slack" />
+          </td>
+          <td valign="middle">
+            <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" align="middle" alt="Linear" />
+          </td>
+        </tr>
+      </table>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -78,31 +111,6 @@
   <tr>
     <td>2022.03-2024.02</td>
     <td>컴퓨터과학전공 학생회</td>
-  </tr>
-</table>
-
-<br/>
-
-## Projects
-
-<table width="100%">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">기간</th>
-    <th align="left">역할</th>
-    <th align="left">Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></td>
-    <td>2025.11 – 2026.10</td>
-    <td>Team Leader, Frontend</td>
-    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Eatsfine/FE">Eatsfine</a></td>
-    <td>2026.01 – 2026.02</td>
-    <td>Frontend Leader</td>
-    <td>지도 기반 레스토랑 웹 서비스</td>
   </tr>
 </table>
 
