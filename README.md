@@ -4,12 +4,13 @@
 
 <sub>Frontend Developer</sub>
 
-<img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=15&pause=1500&color=2C7A68&center=true&vCenter=true&width=460&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20try%20it." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=15&pause=1500&color=2C7A68&center=true&vCenter=true&width=460&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20do%20it." alt="typing" />
 
 </div>
 
 <br/>
-## Skills
+
+## Skils
 
 **Languages**
 
@@ -99,11 +100,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjjsun&utm_content=farm">
+  <a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=jjjsun&utm_content=farm">
     <img
-    src="https://render.gitanimals.org/farms/jjjsun"
-    width="600"
-    height="300"
+      src="https://render.gitanimals.org/farms/jjjsun"
+      width="600"
+      height="300"
     />
   </a>
 </p>
