@@ -1,118 +1,109 @@
-<!-- =========================
-     Header (Animated)
-========================= -->
-<!-- <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PARK%20JAESEON&fontSize=55&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55"
-    alt="header"
-  />
-</p> -->
-<div style="max-width: 900px; margin: 0 auto; padding: 0 16px;">
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:34D399&height=170&section=header&text=PARK%20JAESEON&fontSize=55&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&fontColor=FFFFFF"
-    alt="header"
-  />
+# PARK JAESEON
+
+<sub>Frontend Developer</sub>
+
+<img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&size=15&pause=1500&color=2C7A68&center=true&vCenter=true&width=460&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20try%20it." alt="typing" />
+
+</div>
+
+<br/>
+## Skills
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-EDEEF2?style=flat-square&logo=javascript&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/TypeScript-EDEEF2?style=flat-square&logo=typescript&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/HTML5-EDEEF2?style=flat-square&logo=html5&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/CSS3-EDEEF2?style=flat-square&logo=css3&logoColor=33363F" />
 </p>
 
-<h2>😊 안녕하세요, 박재선입니다</h2>
-     <h3>- "일단 해보자, 하면 된다"라는 다짐으로 끈기있게 도전하는 프론트엔드 개발자입니다.</h3>
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-EDEEF2?style=flat-square&logo=react&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Next.js-EDEEF2?style=flat-square&logo=nextdotjs&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/TailwindCSS-EDEEF2?style=flat-square&logo=tailwindcss&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Vite-EDEEF2?style=flat-square&logo=vite&logoColor=33363F" />
+</p>
+
+**Version Control**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-EDEEF2?style=flat-square&logo=git&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/GitHub-EDEEF2?style=flat-square&logo=github&logoColor=33363F" />
+</p>
+
+**Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-EDEEF2?style=flat-square&logo=vercel&logoColor=33363F" />
+</p>
+
+**Collaboration**
+
+<p>
+  <img src="https://img.shields.io/badge/Slack-EDEEF2?style=flat-square&logo=slack&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Notion-EDEEF2?style=flat-square&logo=notion&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Linear-EDEEF2?style=flat-square&logo=linear&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Discord-EDEEF2?style=flat-square&logo=discord&logoColor=33363F" />
+</p>
+
+**AI Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-EDEEF2?style=flat-square&logo=cursor&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Claude-EDEEF2?style=flat-square&logo=claude&logoColor=33363F" />
+  <img src="https://img.shields.io/badge/Gemini-EDEEF2?style=flat-square&logo=googlegemini&logoColor=33363F" />
+</p>
 
 <br/>
 
+## Experience
 
-<h2>🛠️ Skills</h2>
+> **2025.09 – 2026.02** — UMC 9th Challenger (Web Frontend)
 
-<h3>Languages & Frontend</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-</div>
+> **2024.02 – 2025.02** — 스타벅스 바리스타 근무
 
-<h3>Tools & Collaboration</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
+> **2023.03 – 2024.02** — 컴퓨터과학전공 학생회 총무
+
+> **2022.03 – 2024.02** — 컴퓨터과학전공 학생회
 
 <br/>
 
-<h2>🐎 Experience</h2>
+## Projects
 
-<table>
-  <tr>
-    <th>기간</th>
-    <th>활동내역</th>
-  </tr>
-  <tr>
-    <td>2025.09 ~ 2026.02</td>
-    <td>UMC 9th Challenger (Web Frontend)</td>
-  </tr>
-  <tr>
-    <td>2024.02 ~ 2025.02</td>
-    <td>스타벅스 바리스타 근무</td>
-  </tr>
-  <tr>
-    <td>2023.03 ~ 2024.02</td>
-    <td>컴퓨터과학전공 학생회 총무</td>
-  </tr>
-  <tr>
-    <td>2022.03 ~ 2024.02</td>
-    <td>컴퓨터과학전공 학생회</td>
-  </tr>
-</table>
+| Role                       | Project                                                         | Period            | Description                                         |
+| -------------------------- | --------------------------------------------------------------- | ----------------- | --------------------------------------------------- |
+| Team Leader & FE Developer | [WhereYouAd](https://github.com/WhereYouAd/WhereYouAd-Frontend) | 2025.11 ~ 2026.10 | 실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼 |
+| Frontend Leader            | [Eatsfine](https://github.com/Eatsfine/FE)                      | 2026.01 ~ 2026.02 | 지도 기반 레스토랑 웹 서비스                        |
 
 <br/>
 
-<h2>🚀 Projects</h2>
-<table>
-  <tr>
-    <th>Role</th>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>Team Leader&Frontend Dev</b></td>
-    <td><b><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></b></td>
-    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
-  </tr>
-  <tr>
-    <td><b>Frontend Leader</b></td>
-    <td><b><a href="https://github.com/Eatsfine/FE">Eatsfine</a></b></td>
-    <td>지도 기반 레스토랑 웹 서비스</td>
-  </tr>
-</table>
+## Contact
 
-<br/>
-
-<h2>📫 Contact</h2>
-<div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
+<p>
   <a href="mailto:ddorri83@naver.com">
-    <img src="https://img.shields.io/badge/ddorri83@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/ddorri83@naver.com-EDEEF2?style=flat-square&logo=naver&logoColor=33363F" />
   </a>
-</div>
+</p>
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.git-ranker.com/users/jjjsun"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker Badge" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
 </p>
+
 <p align="center">
-     <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/lines/jjjsun?pet-id=6" width="1000" height="240"/>
-     </a>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjjsun&utm_content=farm">
+    <img
+    src="https://render.gitanimals.org/farms/jjjsun"
+    width="600"
+    height="300"
+    />
+  </a>
 </p>
-
-
-</div>
