@@ -44,8 +44,8 @@
     </td>
     <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=notion" height="50" alt="Notion" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="22" alt="Slack" />
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" height="22" alt="Linear" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -58,7 +58,7 @@
 
 ## Experience
 
-<table>
+<table width="100%">
   <tr>
     <th>기간</th>
     <th>활동내역</th>
@@ -85,11 +85,11 @@
 
 ## Projects
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">Project</th>
-    <th align="left">Period</th>
-    <th align="left">Role</th>
+    <th align="left">기간</th>
+    <th align="left">역할</th>
     <th align="left">Description</th>
   </tr>
   <tr>
@@ -117,7 +117,7 @@
 <p align="center">
   <a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=jjjsun&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/farms/jjjsun"
+      src="https://render.gitanimals.org/farms/jjjsun?v=2"
       width="600"
       height="300"
     />
