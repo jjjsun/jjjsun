@@ -14,29 +14,6 @@
 
 <br/>
 
-## Projects
-
-<table width="100%">
-  <tr>
-    <td>
-      <h3><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></h3>
-      기간 <code>2025.11 – 2026.10</code> &nbsp;·&nbsp; 역할 <b>Team Leader, Frontend</b>
-      <br/><br/>
-      실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Eatsfine/FE">Eatsfine</a></h3>
-      기간 <code>2026.01 – 2026.02</code> &nbsp;·&nbsp; 역할 <b>Frontend Leader</b>
-      <br/><br/>
-      지도 기반 레스토랑 웹 서비스
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## Skills
 
 <table>
@@ -46,13 +23,13 @@
     <th bgcolor="#f0f0f0"><font color="#6B7280">Version Control</font></th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="50" alt="languages" />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="50" alt="frontend" />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=git,github" height="50" alt="version control" />
     </td>
   </tr>
@@ -62,27 +39,40 @@
     <th bgcolor="#f0f0f0"><font color="#6B7280">AI Tools</font></th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="deployment" />
     </td>
-    <td align="center">
-      <table>
-        <tr>
-          <td valign="middle">
-            <img src="https://skillicons.dev/icons?i=notion" height="50" align="middle" alt="Notion" />
-          </td>
-          <td valign="middle">
-            <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="middle" alt="Slack" />
-          </td>
-          <td valign="middle">
-            <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" align="middle" alt="Linear" />
-          </td>
-        </tr>
-      </table>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=notion" height="50" align="middle" alt="Notion" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="middle" alt="Slack" />
+      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" align="middle" alt="Linear" />
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h3><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></h3>
+      기간 <code>2025.11 – 2026.10</code><br/>
+      역할 <b>Team Leader, Frontend</b>
+      <br/><br/>
+      실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3><a href="https://github.com/Eatsfine/FE">Eatsfine</a></h3>
+      기간 <code>2026.01 – 2026.02</code><br/>
+      역할 <b>Frontend Leader</b>
+      <br/><br/>
+      지도 기반 레스토랑 웹 서비스
     </td>
   </tr>
 </table>
