@@ -60,20 +60,22 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <h3><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></h3>
-      기간 <code>2025.11 – 2026.10</code><br/>
-      역할 <b>Team Leader, Frontend</b>
-      <br/><br/>
-      실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <h3><a href="https://github.com/Eatsfine/FE">Eatsfine</a></h3>
-      기간 <code>2026.01 – 2026.02</code><br/>
-      역할 <b>Frontend Leader</b>
-      <br/><br/>
-      지도 기반 레스토랑 웹 서비스
-    </td>
+    <th align="left">Project</th>
+    <th align="left">기간</th>
+    <th align="left">역할</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></td>
+    <td>2025.11 – 2026.10</td>
+    <td>Team Leader, Frontend</td>
+    <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Eatsfine/FE">Eatsfine</a></td>
+    <td>2026.01 – 2026.02</td>
+    <td>Frontend Leader</td>
+    <td>지도 기반 레스토랑 웹 서비스</td>
   </tr>
 </table>
 
