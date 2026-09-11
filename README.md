@@ -84,13 +84,23 @@
 ## Experience
 
 ```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    cScale0: "#DBEAFE"
+    cScaleLabel0: "#1E3A8A"
+  timeline:
+    disableMulticolor: true
+    padding: 8
+    useMaxWidth: true
+---
 timeline
     title Experience
-    2022.03 – 2024.02 : 컴퓨터과학전공 학생회
-    2023.03 – 2024.02 : 컴퓨터과학전공 학생회 총무
-    2024.02 – 2025.02 : Starbucks 바리스타 근무
-    2025.09 – 2026.02 : UMC 9th Challenger
-                      : Web Frontend
+    22.03–24.02 : 컴퓨터과학전공 학생회
+    23.03–24.02 : 컴퓨터과학전공 학생회 총무
+    24.02–25.02 : Starbucks 바리스타 근무
+    25.09–26.02 : UMC 9th Challenger (Web Frontend)
 ```
 
 <br/>
