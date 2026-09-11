@@ -67,8 +67,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></td>
-    <td>2025.11 – 2026.10</td>
-    <td>Team Leader, Frontend</td>
+    <td>2025.11 – 2026.09</td>
+    <td>Team Leader • Frontend</td>
     <td>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</td>
   </tr>
   <tr>
@@ -83,28 +83,15 @@
 
 ## Experience
 
-<table width="100%">
-  <tr>
-    <th>기간</th>
-    <th>활동내역</th>
-  </tr>
-  <tr>
-    <td>2025.09-2026.02</td>
-    <td>UMC 9th Challenger (Web Frontend)</td>
-  </tr>
-  <tr>
-    <td>2024.02-2025.02</td>
-    <td>Starbucks 바리스타 근무</td>
-  </tr>
-  <tr>
-    <td>2023.03-2024.02</td>
-    <td>컴퓨터과학전공 학생회 총무</td>
-  </tr>
-  <tr>
-    <td>2022.03-2024.02</td>
-    <td>컴퓨터과학전공 학생회</td>
-  </tr>
-</table>
+```mermaid
+timeline
+    title Experience
+    2022.03 – 2024.02 : 컴퓨터과학전공 학생회
+    2023.03 – 2024.02 : 컴퓨터과학전공 학생회 총무
+    2024.02 – 2025.02 : Starbucks 바리스타 근무
+    2025.09 – 2026.02 : UMC 9th Challenger
+                      : Web Frontend
+```
 
 <br/>
 
