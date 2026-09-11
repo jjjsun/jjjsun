@@ -90,10 +90,14 @@ config:
   themeVariables:
     cScale0: "#DBEAFE"
     cScaleLabel0: "#1E3A8A"
+    fontSize: "26px"
+    fontWeight: "600"
+  themeCSS: "text { font-weight: 600 }"
   timeline:
     disableMulticolor: true
     padding: 8
     useMaxWidth: true
+    taskFontSize: 26
 ---
 timeline
     title Experience
