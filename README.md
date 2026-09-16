@@ -1,4 +1,3 @@
-
 ## Skills
 
 <table>
@@ -69,7 +68,7 @@
 ## GitHub Stats
 
 <p align="center">
-  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun)
+<a href="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun">
 </p>
 
 <p align="center">
