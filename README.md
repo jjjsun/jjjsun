@@ -1,42 +1,42 @@
-<p align="center"> 
-<table>
-  <tr>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">Languages</font></th>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">Frontend</font></th>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">Version Control</font></th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="50" alt="languages" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="50" alt="frontend" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,github" height="50" alt="version control" />
-    </td>
-  </tr>
-  <tr>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">Deployment</font></th>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">Collaboration</font></th>
-    <th bgcolor="#f0f0f0"><font color="#6B7280">AI Tools</font></th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="deployment" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=notion" height="50" align="middle" alt="Notion" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="middle" alt="Slack" />
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" align="middle" alt="Linear" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-    </td>
-  </tr>
-</table>
-</p>
+<div align="center"> 
+  <table>
+    <tr>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">Languages</font></th>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">Frontend</font></th>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">Version Control</font></th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="50" alt="languages" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="50" alt="frontend" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=git,github" height="50" alt="version control" />
+      </td>
+    </tr>
+    <tr>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">Deployment</font></th>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">Collaboration</font></th>
+      <th bgcolor="#f0f0f0"><font color="#6B7280">AI Tools</font></th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="deployment" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=notion" height="50" align="middle" alt="Notion" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="middle" alt="Slack" />
+        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" align="middle" alt="Linear" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 ## Projects
@@ -64,10 +64,8 @@
 
 <br/>
 
-## GitHub Stats
-
 <p align="center">
-<a href="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun">
+  <a href="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun">
 </p>
 
 <p align="center">
