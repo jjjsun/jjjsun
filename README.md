@@ -1,5 +1,4 @@
-## Skills
-
+<p align="center"> 
 <table>
   <tr>
     <th bgcolor="#f0f0f0"><font color="#6B7280">Languages</font></th>
@@ -37,7 +36,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 <br/>
 
 ## Projects
