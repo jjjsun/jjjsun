@@ -67,7 +67,9 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun">
+  <a href="https://www.git-ranker.com/ko/users/jjjsun">
+    <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker" />
+  </a>
 </p>
 
 <p align="center">
