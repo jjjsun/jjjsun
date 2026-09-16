@@ -1,18 +1,3 @@
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:34D399&height=170&section=header&text=PARK%20JAESEON&fontSize=55&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&fontColor=FFFFFF"
-  alt="header"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=700&size=22&duration=1600&pause=500&color=2F80ED&center=true&vCenter=true&width=520&height=48&lines=%EC%9D%BC%EB%8B%A8%20%ED%95%B4%EB%B3%B4%EC%9E%90.;%ED%95%98%EB%A9%B4%20%EB%90%9C%EB%8B%A4.;Just%20do%20it."
-  alt="typing"
-/>
-
-</div>
-
-<br/>
 
 ## Skills
 
@@ -81,38 +66,10 @@
 
 <br/>
 
-## Experience
-
-```mermaid
----
-config:
-  theme: base
-  themeVariables:
-    cScale0: "#DBEAFE"
-    cScaleLabel0: "#1E3A8A"
-    fontSize: "18px"
-    fontWeight: "600"
-  themeCSS: "text { font-weight: 600 }"
-  timeline:
-    disableMulticolor: true
-    padding: 8
-    useMaxWidth: true
-    taskFontSize: 18
----
-timeline
-    title Experience
-    22.03–24.02 : 컴퓨터과학전공 학생회
-    23.03–24.02 : 컴퓨터과학전공 학생회 총무
-    24.02–25.02 : Starbucks 바리스타 근무
-    25.09–26.02 : UMC 9th Challenger (Web Frontend)
-```
-
-<br/>
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjsun&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
+  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw)](https://www.git-ranker.com/ko/users/jjjsun)
 </p>
 
 <p align="center">
