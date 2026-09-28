@@ -53,24 +53,18 @@
       <td><a href="https://github.com/WhereYouAd/WhereYouAd-Frontend">WhereYouAd</a></td>
       <td>2025.11 – 2026.09</td>
       <td>Team Leader • Frontend</td>
-      <td><b>실시간 온라인 광고 모니터링 및 분석 B2B SaaS 플랫폼</b><br/><sub>워크스페이스 · 설정 · 타임라인 · 알림 · 권한 · 초대 · 탈퇴</sub></td>
+      <td><b>온라인 광고 성과 모니터링/분석 B2B SaaS 웹 플랫폼</b><br/><sub>워크스페이스 · 설정 · 타임라인 · 알림 · 권한 · 초대 · 탈퇴</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Eatsfine/FE">Eatsfine</a></td>
       <td>2026.01 – 2026.02</td>
       <td>Frontend Leader</td>
-      <td><b>지도 기반 레스토랑 웹 서비스</b><br/><sub>식당 검색 · 지도API연동 · 메뉴 · 예약 · 결제 · 온보딩 · 마이페이지</sub></td>
+      <td><b>지도 기반 레스토랑 자리 예약 웹 서비스</b><br/><sub>식당 검색 · 지도API연동 · 메뉴 · 예약 · 결제 · 온보딩 · 마이페이지</sub></td>
     </tr>
   </table>
 </div>
 
 <br/>
-
-<p align="center">
-  <a href="https://www.git-ranker.com/ko/users/jjjsun">
-    <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBlHKzw" alt="Git Ranker" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=jjjsun&utm_content=farm">
