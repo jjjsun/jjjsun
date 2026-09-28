@@ -59,7 +59,7 @@
       <td><a href="https://github.com/Eatsfine/FE">Eatsfine</a></td>
       <td>2026.01 – 2026.02</td>
       <td>Frontend Leader</td>
-      <td>지도 기반 레스토랑 웹 서비스<br/>식당 검색 · 지도API연동 · 메뉴선택 · 예약 · 결제 · 온보딩 · 마이페이지</td>
+      <td>지도 기반 레스토랑 웹 서비스<br/>식당 검색 · 지도API연동 · 메뉴 · 예약 · 결제 · 온보딩 · 마이페이지</td>
     </tr>
   </table>
 </div>
